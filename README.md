@@ -1,7 +1,7 @@
 
 
 
-# Alictus_devcase_demo
+# Survivor-Case-Demo
  Demo work made with Unity, uncompleted Project.
 Optimization and code editing incomplete, it works technically. It can be run properly by installing the simulator in Unity.
 
