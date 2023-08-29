@@ -2,7 +2,7 @@
 
 
 # Alictus_devcase_demo
-uncompleted Project, Demo work made with Unity.
+ Demo work made with Unity, uncompleted Project.
 Optimization and code editing incomplete, it works technically. It can be run properly by installing the simulator in Unity.
 
 
